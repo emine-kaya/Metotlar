@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{79749370-6504-4734-96A4-A563866AD4A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{4F01CA56-DA11-4C0F-B7A8-2F3769E20434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79749370-6504-4734-96A4-A563866AD4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79749370-6504-4734-96A4-A563866AD4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79749370-6504-4734-96A4-A563866AD4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79749370-6504-4734-96A4-A563866AD4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F01CA56-DA11-4C0F-B7A8-2F3769E20434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F01CA56-DA11-4C0F-B7A8-2F3769E20434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F01CA56-DA11-4C0F-B7A8-2F3769E20434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F01CA56-DA11-4C0F-B7A8-2F3769E20434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F34BAC-0EA3-4EBE-86B8-ECA52209B0B7}
+	EndGlobalSection
+EndGlobal
